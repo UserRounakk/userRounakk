@@ -28,8 +28,8 @@ Hi, I'm [Rounak Agrawal!](https://www.instagram.com/userrounakk), a Passionate |
 - :books: I’m currently Reading Atomic Habits by James Clear :books:;
 - 🌱 I’m currently learning <br> Full-Stack software engineering; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@whoissubedibibek](mailto:Subedibibek@itsnp.org);
-- 📝[Resume](https://itsnp.org)
+- 📫 How to reach me: [@whoissubedibibek](mailto:contact@rounakagrawal.com.np);
+- 📝[Resume](https://www.rounakagrawal.com.np)
 - [Join My tech Community from here ❤](https://www.facebook.com/groups/techforimpact)
 
 **Languages and Tools:**  
