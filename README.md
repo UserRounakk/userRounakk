@@ -47,7 +47,7 @@ ___
 
 📈 My GitHub Status
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=userrounakk&theme=dracula&show_icons=true" />
+<p align="left"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=userrounakk&show_icons=true&locale=en&theme=dracula" alt="userrounakk" /></p>
 
 
   
