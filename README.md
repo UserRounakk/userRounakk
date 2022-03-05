@@ -29,8 +29,8 @@ Hi, I'm [Rounak Agrawal!](https://www.instagram.com/userrounakk), a Passionate |
 - 🌱 I’m currently learning <br> Full-Stack software engineering; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@userrounakk](mailto:contact@rounakagrawal.com.np);
-- 📝[Resume](https://www.rounakagrawal.com.np)
-- 
+- 📝 [Resume](https://www.rounakagrawal.com.np)
+- 🌐 [Portfolio](https://www.rounakagrawal.com.np)
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -47,7 +47,7 @@ ___
 
 📈 My GitHub Status
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=userrounakk&theme=dracula&show_icons=true" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=UserRounakk&theme=dracula&show_icons=true" />
 
 
   
