@@ -68,7 +68,7 @@
 <br/><br/>
 <p align="right">
     <a href="https://app.daily.dev/userrounakk">
-        <img align="right" src="https://api.daily.dev/devcards/5d99b80f3c39430d9a2cf540557d3f8a.png?r=s33" width="300"
+        <img align="right" src="https://api.daily.dev/devcards/5d99b80f3c39430d9a2cf540557d3f8a.png?r=yt2" width="300"
             alt="Rounak Agrawal's Dev Card" />
     </a>
 </p>
