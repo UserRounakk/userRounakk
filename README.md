@@ -1,56 +1,84 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">Hi 👋, I'm Rounak Agrawal</h1>
+<h3 align="center">A full stack developer based in Biratnagar, Nepal.</h3> <br />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"  width="435" />
 
-<a href="https://www.facebook.com/userrounakk">
-  <img align="left" alt="Rounak's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
-<a href="https://twitter.com/userrounakk">
-  <img align="left" alt="Rounak's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/userounakk/">
-  <img align="left" alt="Rounak's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://discord.com/invite/gmzhmyZb8m">
-  <img align="left" alt="Rounak's discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=userrounakk)
-
-<br />
-
-Hi, I'm [Rounak Agrawal!](https://www.instagram.com/userrounakk), a Passionate | learner | tech-geek | Student |
- 🙌 from Biratnagar, Nepal.
-
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/77529535/104816402-097a5f80-5843-11eb-9d83-deadb3bb212c.gif?raw=true" width="500" height="340" />
-  
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on some of my private projects :wink:;
-- :books: I’m currently Reading Atomic Habits by James Clear :books:;
-- 🌱 I’m currently learning <br> Full-Stack software engineering; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@userrounakk](mailto:contact@rounakagrawal.com.np);
-- 📝 [Resume](https://www.rounakagrawal.com.np)
-- 🌐 [Portfolio](https://www.rounakagrawal.com.np)
+- 🌱 I’m currently learning **Flutter**
 
-**Languages and Tools:**  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+- 👨‍💻 My Portfolio [https://www.rounakagrawal.com.np](https://www.rounakagrawal.com.np)
 
+- 📫 How to reach me **contact@rounakagrawal.com.np**
 
-<!--END_SECTION:waka-->
-___
+- 📝 [My Resume](https://rounakagrawal.com.np/wp-content/uploads/2022/05/Resume.pdf)
 
+<br/>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/userrounakk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="userrounakk" height="20" width="30" /></a>
+<a href="https://instagram.com/userrounakk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="userrounakk" height="20" width="30" /></a>
+<a href="https://linkedin.com/in/userrounakk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="userrounakk" height="20" width="30" /></a>
+<a href="https://twitter.com/userrounakk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="userrounakk" height="20" width="30" /></a>
+<a href="https://dev.to/userrounakk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="userrounakk" height="20" width="30" /></a>
+<a href="https://codepen.io/userrounakk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="userrounakk" height="20" width="30" /></a>
+<a href="https://dribbble.com/userrounakk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="userrounakk" height="20" width="30" /></a>
+<a href="https://www.behance.net/userrounakk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="userrounakk" height="20" width="30" /></a>
+<a target="blank" href="#"><img align="center" src="https://visitor-badge.glitch.me/badge?page_id=userrounakk&left_color=black&right_color=#fa6167" alt="userrounakk"  height="20"></a>
+</p>
+<br />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<!-- html -->
+ <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> &nbsp;
+ <!-- css -->
+ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> &nbsp;
+ <!-- js -->
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> &nbsp;
+ <!-- scss -->
+ <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/> </a>
+  <!-- bootstrap -->
+ <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a> &nbsp; 
+  <!-- wordpress -->
+ <a href="https://wordpress.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="30" height="30"/> </a> &nbsp; 
+ <!-- git -->
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> &nbsp;
+ <!-- C programming -->
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> &nbsp;
+<!-- Dart -->
+ <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="30" height="30"/> </a> &nbsp;
+ <!-- Flutter -->
+ <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/> </a> &nbsp;
+ <!-- Firebase -->
+ <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> </a> &nbsp;
+ <!-- Laravel -->
+ <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="30" height="30"/> </a> &nbsp;
+ <!-- Figma -->
+ <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> </a> &nbsp;
+ <!-- Photoshop -->
+ <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a> &nbsp;
+ <!-- Illustrator  -->
+ <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/> </a> &nbsp;
+ <!-- MySQL -->
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a> &nbsp;
+ <!-- Postman -->
+ <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a> &nbsp;
+ </p>
 
-📈 My GitHub Status
+<br/><br/>
+<p align="right">
+    <a href="https://app.daily.dev/userrounakk">
+        <img align="right" src="https://api.daily.dev/devcards/5d99b80f3c39430d9a2cf540557d3f8a.png?r=s33" width="300"
+            alt="Rounak Agrawal's Dev Card" />
+    </a>
+</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=userrounakk&show_icons=true&locale=en&theme=dracula"
+        alt="userrounakk" />
+</p>
 
-<p align="left"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=userrounakk&show_icons=true&locale=en&theme=dracula" alt="userrounakk" /></p>
-
-
-  
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-  
-[![Join our Discord server!](https://invidget.switchblade.xyz/RPC9PNJrSt)](http://discord.gg/RPC9PNJrSt)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=userrounakk&theme=dracula" alt="userrounakk" /></p>
+<p>
+    <img align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=userrounakk&show_icons=true&locale=en&theme=dracula"
+        alt="userrounakk" />
+</p>
