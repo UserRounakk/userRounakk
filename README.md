@@ -68,8 +68,7 @@
 <br/><br/>
 <p align="right">
     <a href="https://app.daily.dev/userrounakk">
-        <img align="right" src="https://api.daily.dev/devcards/5d99b80f3c39430d9a2cf540557d3f8a.png?r=xy5" width="300"
-            alt="Rounak Agrawal's Dev Card" />
+        <img src="https://api.daily.dev/devcards/5d99b80f3c39430d9a2cf540557d3f8a.png?r=xy5" width="300" alt="Rounak Agrawal's Dev Card" align="right" />
     </a>
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=userrounakk&show_icons=true&locale=en&theme=dracula"
