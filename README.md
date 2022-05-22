@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rounak Agrawal</h1>
 <h3 align="center">A full stack developer based in Biratnagar, Nepal.</h3> <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"  width="435" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"  width="430" />
 
 **Talking about Personal Stuffs:**
 
