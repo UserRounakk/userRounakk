@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **contact@rounakagrawal.com.np**
 
-- 📝 [My Resume](https://www,userrounskk.com/Resume.pdf)
+- 📝 [My Resume](https://www.userrounskk.com/Resume.pdf)
 
 <br/>
 
