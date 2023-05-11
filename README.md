@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 My Portfolio [https://www.rounakagrawal.com.np](https://www.rounakagrawal.com.np)
+- 👨‍💻 My Portfolio [https://www.userrounakk.com](https://www.userrounakk.com)
 
-- 📫 How to reach me **contact@rounakagrawal.com.np**
+- 📫 How to reach me **contact@userrounakk.com**
 
 - 📝 [My Resume](https://www.userrounakk.com/Resume.pdf)
 
